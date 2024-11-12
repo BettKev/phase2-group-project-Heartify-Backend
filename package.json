@@ -1,29 +1,25 @@
 {
-  "name": "phase2-group-project-heartify-backend",
+  "name": "phase2-week2-plantsy-code-challenge-server",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-   "start": "node index.js"
+    "start": "node index.js"  
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/BettKev/phase2-group-project-Heartify-Backend.git"
+    "url": "git+https://github.com/BettKev/phase2-week2-plantsy-code-challenge-server.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/BettKev/phase2-group-project-Heartify-Backend/issues"
+    "url": "https://github.com/BettKev/phase2-week2-plantsy-code-challenge-server/issues"
   },
-  "homepage": "https://github.com/BettKev/phase2-group-project-Heartify-Backend#readme",
+  "homepage": "https://github.com/BettKev/phase2-week2-plantsy-code-challenge-server#readme",
   "dependencies": {
     "cors": "^2.8.5",
-    "json-server": "^1.0.0-beta.3"
-  },
-  "engines": {
-  "node": ">=18"
-}
-
+    "json-server": "^0.17.0-beta.3"
+  }
 }
