@@ -1,4 +1,56 @@
 {
-    "user": [],
-    "organization": []
-}
+    "user": [
+      {
+        "id": "0c79",
+        "firstName": "test",
+        "lastName": "user1",
+        "email": "testuser1@example.com",
+        "telephone": "1111111111",
+        "county": "Kiambu",
+        "experience": "Red Cross",
+        "password": "1",
+        "confirmPassword": "1",
+        "terms": true,
+        "applications": [
+          
+        ]
+      }
+    ],
+    "organization": [
+      {
+        "id": "3876",
+        "organizationName": "testorganization1",
+        "email": "testorg1@example.com",
+        "telephone": "1111111111",
+        "website": "https://test.org2.com",
+        "password": "1",
+        "confirmPassword": "1",
+        "terms": true,
+        "volunteerOpportunities": [
+          {
+            "id": "1731648302916",
+            "title": "Teacher",
+            "description": "Good teacher",
+            "location": "Kenya",
+            "duration": "4",
+            "startDate": "2024-11-28",
+            "requirements": "Good",
+            "contactEmail": "example@email.com",
+            "applicationDeadline": "2024-11-30",
+            "benefits": "Good",
+            "volunteerType": "in-person"
+          }
+        ]
+      }
+    ],
+    "contactus": [
+      {
+        "id": "14b2",
+        "fullname": "testuser1",
+        "contact_email": "testuser1@example.com",
+        "tphone": "1111111111",
+        "comments": "Good job",
+        "accept": true
+      }
+    ]
+  }
